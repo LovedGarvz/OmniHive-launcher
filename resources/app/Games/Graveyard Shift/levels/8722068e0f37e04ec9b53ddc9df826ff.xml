@@ -1,0 +1,625 @@
+<shooter_level>
+<bg1 length="172">
+<bg1_column1 data="0,0,0,0,0,47" />
+<bg1_column2 data="54,57,0,0,0,49,0,0,0,46,54" />
+<bg1_column3 data="0,0,0,0,15,16,17,18" />
+<bg1_column4 data="0,0,0,0,20,64,65,66" />
+<bg1_column5 data="54,54,54,54,54,39,57,0,0,0,47" />
+<bg1_column6 data="0,0,47,0,0,75,0,0,46,54,39" />
+<bg1_column7 data="0,0,49,0,0,0,0,0,0,15,16" />
+<bg1_column8 data="0,15,16,17,18,0,0,0,0,20,64" />
+<bg1_column9 data="0,20,64,65,66,0,0,47,0,0,49" />
+<bg1_column10 data="54,54,39,54,54,54,54,39,57,0,75" />
+<bg1_column11 data="0,0,75,0,0,0,15,16,17,18" />
+<bg1_column12 data="0,0,0,0,0,0,20,64,65,66" />
+<bg1_column13 data="0,0,0,0,0,0,0,49" />
+<bg1_column14 data="18,0,47,0,0,0,0,75,0,0,47" />
+<bg1_column15 data="25,18,49,0,0,0,0,0,46,54,48" />
+<bg1_column16 data="25,25,16,17,17,18,0,0,0,15,16" />
+<bg1_column17 data="25,25,25,64,65,66,0,0,0,20,64" />
+<bg1_column18 data="25,64,66,0,0,0,0,0,0,0,49" />
+<bg1_column19 data="27,49,0,0,0,47,0,74,54,54,48" />
+<bg1_column20 data="38,39,54,54,54,48,57,0,0,0,75" />
+<bg1_column21 data="27,49,0,0,15,16,17,18" />
+<bg1_column22 data="38,48,54,57,20,64,65,66" />
+<bg1_column23 data="26,75,0,0,0,49,0,0,0,0,47" />
+<bg1_column24 data="38,54,54,54,57,75,0,0,74,54,48" />
+<bg1_column25 data="25,18,0,0,0,0,0,0,0,0,49" />
+<bg1_column26 data="25,25,18,0,0,0,0,0,0,15,16" />
+<bg1_column27 data="25,25,25,17,17,18,0,0,0,19,25" />
+<bg1_column28 data="25,25,65,65,65,66,0,0,0,20,64" />
+<bg1_column29 data="25,66,0,0,47,0,0,0,0,47,75" />
+<bg1_column30 data="26,47,0,0,49,0,0,0,0,49" />
+<bg1_column31 data="27,49,0,74,39,54,54,57,15,16,17" />
+<bg1_column32 data="25,16,17,18,49,0,0,0,19,25,25" />
+<bg1_column33 data="25,25,25,25,16,17,17,17,25,25,25" />
+<bg1_column34 data="25,0,0,25,25,25,25,25,25,25,25" />
+<bg1_column35 data="25,0,0,25,25,25,25,25,65,65,65" />
+<bg1_column36 data="25,25,25,25,64,65,65,66" />
+<bg1_column37 data="25,25,25,26,49,0,0,0,0,0,62" />
+<bg1_column38 data="25,25,64,66,49,0,0,0,0,62,25" />
+<bg1_column39 data="25,38,39,54,39,54,57,0,62,25,25" />
+<bg1_column40 data="25,27,49,0,75,0,0,0,19,25,25" />
+<bg1_column41 data="25,25,16,17,18,0,0,0,19,25,25" />
+<bg1_column42 data="25,25,25,25,38,54,57,0,63,25,25" />
+<bg1_column43 data="25,25,25,25,26,0,0,47,0,63,25" />
+<bg1_column44 data="25,25,25,64,66,0,0,49,0,0,71" />
+<bg1_column45 data="25,25,38,54,54,54,54,48,54,54,55" />
+<bg1_column46 data="25,25,26,0,0,0,15,16,18,0,19" />
+<bg1_column47 data="25,25,26,0,0,0,19,25,25,18,19" />
+<bg1_column48 data="25,25,27,0,0,0,19,25,25,66,19" />
+<bg1_column49 data="25,25,26,0,0,0,20,64,66,0,19" />
+<bg1_column50 data="25,25,38,54,54,54,54,39,54,54,55" />
+<bg1_column51 data="25,25,25,17,18,0,0,49,0,0,56" />
+<bg1_column52 data="25,25,25,25,27,0,0,75,0,62,25" />
+<bg1_column53 data="25,25,64,65,66,15,16,17,17,25,25" />
+<bg1_column54 data="25,27,49,0,0,20,64,65,25,25,25" />
+<bg1_column55 data="25,38,48,54,54,54,48,57,63,25,25" />
+<bg1_column56 data="25,26,49,0,0,0,49,0,0,63,64" />
+<bg1_column57 data="25,25,16,17,18,0,75,0,0,0,75" />
+<bg1_column58 data="25,25,25,25,27,0,0,0,0,47" />
+<bg1_column59 data="25,25,25,25,27,0,0,0,62,16,17" />
+<bg1_column60 data="25,25,25,64,66,0,0,62,25,25,25" />
+<bg1_column61 data="25,64,66,0,0,0,0,19,25,0,0" />
+<bg1_column62 data="66,0,0,0,0,47,0,63,25,0,0" />
+<bg1_column63 data="0,0,0,0,0,49,0,0,63,25,25" />
+<bg1_column64 data="54,54,57,74,54,48,54,54,57,71,25" />
+<bg1_column65 data="0,0,0,0,15,16,18,0,0,19,25" />
+<bg1_column66 data="54,54,54,57,19,25,38,54,54,55,25" />
+<bg1_column67 data="0,0,0,0,20,64,66,0,0,19,25" />
+<bg1_column68 data="17,18,46,54,54,39,54,54,54,55,25" />
+<bg1_column69 data="25,27,47,0,0,49,0,0,0,19,25" />
+<bg1_column70 data="25,25,16,18,0,49,74,54,54,55,25" />
+<bg1_column71 data="25,25,25,27,0,75,0,0,0,19,25" />
+<bg1_column72 data="25,25,25,26,0,0,0,74,54,55,25" />
+<bg1_column73 data="25,25,25,66,0,0,0,0,0,19,25" />
+<bg1_column74 data="25,25,27,0,0,0,0,0,0,56,25" />
+<bg1_column75 data="25,64,66,0,0,0,0,0,62,25,25" />
+<bg1_column76 data="27,49,0,47,0,0,0,62,25,25,25" />
+<bg1_column77 data="26,49,0,49,0,0,0,19,0,0,0" />
+<bg1_column78 data="38,48,41,39,54,54,54,55,0,0,0" />
+<bg1_column79 data="27,75,0,49,0,0,0,19,0,0,0" />
+<bg1_column80 data="25,16,18,49,0,0,0,19,0,0,0" />
+<bg1_column81 data="25,25,25,16,18,0,0,19,25,25,25" />
+<bg1_column82 data="25,25,25,25,26,0,0,19,25,25,25" />
+<bg1_column83 data="25,25,25,25,38,54,54,55,25,25,25" />
+<bg1_column84 data="25,25,25,25,27,0,0,19,0,0,0" />
+<bg1_column85 data="25,25,25,25,27,0,0,19,0,0,0" />
+<bg1_column86 data="25,25,25,25,26,0,0,19,0,0,0" />
+<bg1_column87 data="25,25,25,25,27,0,0,19,0,0,0" />
+<bg1_column88 data="25,0,0,25,38,54,54,55,25,25,25" />
+<bg1_column89 data="25,0,0,25,26,0,0,19,25,25,25" />
+<bg1_column90 data="25,25,25,25,27,0,0,19,25,25,25" />
+<bg1_column91 data="65,65,65,65,66,0,0,20,64,65,65" />
+<bg1_column92 data="0,0,0,0,0,0,0,0,75,0,47" />
+<bg1_column93 data="0,0,0,0,0,0,0,0,0,0,49" />
+<bg1_column94 data="17,17,17,17,17,17,18,0,0,15,16" />
+<bg1_column95 data="25,25,25,25,0,0,27,0,0,19,25" />
+<bg1_column96 data="25,25,25,25,0,0,38,54,54,55,25" />
+<bg1_column97 data="25,25,25,25,25,25,27,0,0,19,25" />
+<bg1_column98 data="25,25,25,25,25,25,27,0,0,19,25" />
+<bg1_column99 data="25,25,25,25,25,25,26,0,0,19,25" />
+<bg1_column100 data="25,25,25,25,25,25,27,0,0,19,25" />
+<bg1_column101 data="25,25,25,25,0,0,38,54,54,55,25" />
+<bg1_column102 data="25,25,25,25,0,0,26,0,0,19,25" />
+<bg1_column103 data="65,65,65,65,65,65,66,0,0,20,64" />
+<bg1_column104 data="0,0,0,0,0,0,47,0,0,0,75" />
+<bg1_column105 data="0,0,0,0,0,0,49" />
+<bg1_column106 data="17,17,18,0,0,15,16,17,17,17,17" />
+<bg1_column107 data="25,25,26,0,0,19,25,0,0,0,0" />
+<bg1_column108 data="25,25,38,54,54,55,25,0,0,0,0" />
+<bg1_column109 data="25,25,27,0,0,19,25,0,0,0,0" />
+<bg1_column110 data="25,25,26,0,0,19,25,0,0,0,0" />
+<bg1_column111 data="25,25,27,0,0,19,25,25,25,25,25" />
+<bg1_column112 data="25,25,26,0,0,19,25,0,0,0,0" />
+<bg1_column113 data="25,25,26,0,0,19,25,0,0,0,0" />
+<bg1_column114 data="25,25,38,54,54,55,25,0,0,0,0" />
+<bg1_column115 data="25,25,26,0,0,19,25,0,0,0,0" />
+<bg1_column116 data="65,65,66,0,0,20,64,65,65,65,65" />
+<bg1_column117 data="0,0,0,0,0,0,49" />
+<bg1_column118 data="0,0,0,0,0,0,75" />
+<bg1_column119 data="17,17,17,17,17,17,18,0,0,15,16" />
+<bg1_column120 data="25,25,25,25,25,25,27,0,0,19,25" />
+<bg1_column121 data="25,25,25,25,25,25,38,54,54,55,25" />
+<bg1_column122 data="0,0,25,25,0,0,27,0,0,19,25" />
+<bg1_column123 data="0,0,25,25,0,0,26,0,0,19,25" />
+<bg1_column124 data="25,25,25,25,25,25,38,54,54,55,25" />
+<bg1_column125 data="25,25,25,25,25,25,26,0,0,19,25" />
+<bg1_column126 data="65,65,65,65,65,65,66,0,0,20,64" />
+<bg1_column127 data="0,0,0,0,0,0,47,0,0,0,75" />
+<bg1_column128 data="0,0,0,0,0,0,49" />
+<bg1_column129 data="17,17,18,0,0,15,16,17,17,17,17" />
+<bg1_column130 data="65,65,66,0,0,20,64,65,65,65,65" />
+<bg1_column131 data="0,0,0,0,0,0,49" />
+<bg1_column132 data="0,0,0,0,0,0,75,0,0,0,47" />
+<bg1_column133 data="17,17,17,17,17,17,18,0,0,15,16" />
+<bg1_column134 data="65,65,65,65,65,65,66,0,0,20,64" />
+<bg1_column135 data="0,0,0,0,0,47" />
+<bg1_column136 data="0,0,0,0,0,49" />
+<bg1_column137 data="17,18,0,0,15,16,17,17,17,17,17" />
+<bg1_column138 data="65,66,0,0,20,64,65,65,65,65,65" />
+<bg1_column139 data="0,0,0,0,0,49" />
+<bg1_column140 data="0,0,0,0,0,75" />
+<bg1_column141 data="17,17,17,17,17,17,18,0,0,15,16" />
+<bg1_column142 data="65,65,65,65,65,65,66,0,0,20,64" />
+<bg1_column143 data="0,0,0,0,0,0,47,0,0,0,75" />
+<bg1_column144 data="0,0,0,0,0,0,49" />
+<bg1_column145 data="17,17,18,0,0,15,16,17,17,17,17" />
+<bg1_column146 data="65,65,66,0,0,20,64,65,65,65,65" />
+<bg1_column147 data="0,0,0,0,0,0,49" />
+<bg1_column148 data="0,0,0,0,0,0,75,0,0,0,47" />
+<bg1_column149 data="17,17,17,17,17,17,18,0,0,15,16" />
+<bg1_column150 data="25,25,25,25,25,25,27,0,0,23,25" />
+<bg1_column151 data="25,25,25,0,0,25,38,54,54,55,25" />
+<bg1_column152 data="25,25,25,0,0,25,27,0,0,23,25" />
+<bg1_column153 data="25,25,25,25,25,25,38,54,54,55,25" />
+<bg1_column154 data="25,25,25,25,25,25,26,0,0,23,25" />
+<bg1_column155 data="0,0,25,25,25,25,38,54,54,55,25" />
+<bg1_column156 data="0,0,25,25,25,25,26,0,0,23,25" />
+<bg1_column157 data="25,25,25,25,25,25,38,54,54,55,25" />
+<bg1_column158 data="25,25,25,25,25,25,27,0,0,23,25" />
+<bg1_column159 data="25,25,25,0,0,25,38,54,54,55,25" />
+<bg1_column160 data="25,25,25,0,0,25,26,0,0,23,25" />
+<bg1_column161 data="25,25,25,25,25,25,38,54,54,55,25" />
+<bg1_column162 data="65,65,65,65,65,65,66,0,0,20,64" />
+<bg1_column163 data="0" />
+<bg1_column164 data="0" />
+<bg1_column165 data="0,0,0,0,0,0,0,0,0,0" />
+<bg1_column166 data="0,0,0,0,0,0,0,0,0,0,6" />
+<bg1_column167 data="0" />
+<bg1_column168 data="0" />
+<bg1_column169 data="0" />
+<bg1_column170 data="0" />
+<bg1_column171 data="0" />
+<bg1_column172 data="0" />
+<bg1_column173 data="0,0,0,0,0,0,0" />
+</bg1>
+<bg2 length="164">
+<bg2_column1 data="0" />
+<bg2_column2 data="0" />
+<bg2_column3 data="0,0,0,0" />
+<bg2_column4 data="0" />
+<bg2_column5 data="0" />
+<bg2_column6 data="0" />
+<bg2_column7 data="0" />
+<bg2_column8 data="0" />
+<bg2_column9 data="0" />
+<bg2_column10 data="0" />
+<bg2_column11 data="0,0,0,0,0,0" />
+<bg2_column12 data="0" />
+<bg2_column13 data="0" />
+<bg2_column14 data="0" />
+<bg2_column15 data="0" />
+<bg2_column16 data="0" />
+<bg2_column17 data="0" />
+<bg2_column18 data="0" />
+<bg2_column19 data="0" />
+<bg2_column20 data="0" />
+<bg2_column21 data="0" />
+<bg2_column22 data="0" />
+<bg2_column23 data="0" />
+<bg2_column24 data="0" />
+<bg2_column25 data="0" />
+<bg2_column26 data="0" />
+<bg2_column27 data="0,0,0,0,0,0,0,0,130" />
+<bg2_column28 data="0" />
+<bg2_column29 data="0" />
+<bg2_column30 data="0" />
+<bg2_column31 data="0" />
+<bg2_column32 data="0" />
+<bg2_column33 data="0" />
+<bg2_column34 data="0,136" />
+<bg2_column35 data="0" />
+<bg2_column36 data="0" />
+<bg2_column37 data="0" />
+<bg2_column38 data="0" />
+<bg2_column39 data="0" />
+<bg2_column40 data="0" />
+<bg2_column41 data="0" />
+<bg2_column42 data="0" />
+<bg2_column43 data="0" />
+<bg2_column44 data="0" />
+<bg2_column45 data="0" />
+<bg2_column46 data="0,0,0,0,0,0,0,0,0,128" />
+<bg2_column47 data="0" />
+<bg2_column48 data="0" />
+<bg2_column49 data="0,0,0,0,0,0,0,0,0,129" />
+<bg2_column50 data="0" />
+<bg2_column51 data="0" />
+<bg2_column52 data="0" />
+<bg2_column53 data="0" />
+<bg2_column54 data="0" />
+<bg2_column55 data="0" />
+<bg2_column56 data="0" />
+<bg2_column57 data="0" />
+<bg2_column58 data="0" />
+<bg2_column59 data="0" />
+<bg2_column60 data="0" />
+<bg2_column61 data="0,0,0,0,0,0,0,0,0,136" />
+<bg2_column62 data="0" />
+<bg2_column63 data="0" />
+<bg2_column64 data="0" />
+<bg2_column65 data="0,0,0,0,0,0,0,0,129" />
+<bg2_column66 data="0,0,0,0,0,0,0,0,128" />
+<bg2_column67 data="0" />
+<bg2_column68 data="0" />
+<bg2_column69 data="0" />
+<bg2_column70 data="0" />
+<bg2_column71 data="0,0,0,0,0,0,0,0,132" />
+<bg2_column72 data="0" />
+<bg2_column73 data="0" />
+<bg2_column74 data="0" />
+<bg2_column75 data="0" />
+<bg2_column76 data="0" />
+<bg2_column77 data="0,0,0,0,0,0,0,0,145" />
+<bg2_column78 data="0" />
+<bg2_column79 data="0" />
+<bg2_column80 data="0,0,0,0,0,0,132" />
+<bg2_column81 data="0,0,0,0,0,0,129" />
+<bg2_column82 data="0" />
+<bg2_column83 data="0" />
+<bg2_column84 data="0,0,0,0,0,0,0,0,145" />
+<bg2_column85 data="0,0,0,0,0,0,128" />
+<bg2_column86 data="0" />
+<bg2_column87 data="0" />
+<bg2_column88 data="0,136" />
+<bg2_column89 data="0" />
+<bg2_column90 data="0,0,0,0,0,0,131" />
+<bg2_column91 data="0" />
+<bg2_column92 data="0" />
+<bg2_column93 data="0" />
+<bg2_column94 data="0" />
+<bg2_column95 data="0,0,0,0,136" />
+<bg2_column96 data="0" />
+<bg2_column97 data="0" />
+<bg2_column98 data="0,0,0,0,0,0,0,0,131" />
+<bg2_column99 data="0,0,0,0,0,0,0,0,127" />
+<bg2_column100 data="0" />
+<bg2_column101 data="0,0,0,0,136" />
+<bg2_column102 data="0,0,0,0,0,0,0,0,132" />
+<bg2_column103 data="0" />
+<bg2_column104 data="0" />
+<bg2_column105 data="0" />
+<bg2_column106 data="0" />
+<bg2_column107 data="0,0,0,0,130,0,0,145" />
+<bg2_column108 data="0" />
+<bg2_column109 data="0" />
+<bg2_column110 data="0" />
+<bg2_column111 data="0" />
+<bg2_column112 data="0,0,0,0,127,0,0,145" />
+<bg2_column113 data="0" />
+<bg2_column114 data="0" />
+<bg2_column115 data="0" />
+<bg2_column116 data="0" />
+<bg2_column117 data="0" />
+<bg2_column118 data="0" />
+<bg2_column119 data="0" />
+<bg2_column120 data="0" />
+<bg2_column121 data="0" />
+<bg2_column122 data="136,0,0,0,136,0,0,0,130" />
+<bg2_column123 data="0" />
+<bg2_column124 data="0" />
+<bg2_column125 data="0,0,0,0,0,0,0,0,129" />
+<bg2_column126 data="0" />
+<bg2_column127 data="0" />
+<bg2_column128 data="0" />
+<bg2_column129 data="0" />
+<bg2_column130 data="0" />
+<bg2_column131 data="0" />
+<bg2_column132 data="0" />
+<bg2_column133 data="0" />
+<bg2_column134 data="0" />
+<bg2_column135 data="0" />
+<bg2_column136 data="0" />
+<bg2_column137 data="0" />
+<bg2_column138 data="0" />
+<bg2_column139 data="0" />
+<bg2_column140 data="0" />
+<bg2_column141 data="0" />
+<bg2_column142 data="0" />
+<bg2_column143 data="0" />
+<bg2_column144 data="0" />
+<bg2_column145 data="0" />
+<bg2_column146 data="0" />
+<bg2_column147 data="0" />
+<bg2_column148 data="0" />
+<bg2_column149 data="0" />
+<bg2_column150 data="0" />
+<bg2_column151 data="0,0,0,136" />
+<bg2_column152 data="0,0,0,0,0,0,0,0,129" />
+<bg2_column153 data="0" />
+<bg2_column154 data="0" />
+<bg2_column155 data="136" />
+<bg2_column156 data="0,0,0,0,0,0,0,0,132" />
+<bg2_column157 data="0" />
+<bg2_column158 data="0,0,0,0,0,0,0,0,128" />
+<bg2_column159 data="0,0,0,136" />
+<bg2_column160 data="0" />
+<bg2_column161 data="0" />
+<bg2_column162 data="0" />
+<bg2_column163 data="0" />
+<bg2_column164 data="0" />
+<bg2_column165 data="0,0,0,0,0,0,0,0,134" />
+</bg2>
+<bg3 length="160">
+<bg3_column1 data="0" />
+<bg3_column2 data="0,0,0,0,0,147" />
+<bg3_column3 data="0" />
+<bg3_column4 data="0" />
+<bg3_column5 data="0,0,0,0,0,147" />
+<bg3_column6 data="0,0,0,0,0,0,0,0,0,0,147" />
+<bg3_column7 data="0,0,147" />
+<bg3_column8 data="0" />
+<bg3_column9 data="0,0,0,0,0,0,0,0,0,0,147" />
+<bg3_column10 data="0,0,147,0,0,0,0,147" />
+<bg3_column11 data="0" />
+<bg3_column12 data="0" />
+<bg3_column13 data="0,0,0,0,0,0,0,147" />
+<bg3_column14 data="0" />
+<bg3_column15 data="0,0,0,0,0,0,0,0,0,0,147" />
+<bg3_column16 data="0" />
+<bg3_column17 data="0" />
+<bg3_column18 data="0,0,0,0,0,0,0,0,0,0,147" />
+<bg3_column19 data="0" />
+<bg3_column20 data="0,0,0,0,0,147" />
+<bg3_column21 data="0" />
+<bg3_column22 data="0" />
+<bg3_column23 data="0,0,0,0,0,147" />
+<bg3_column24 data="0" />
+<bg3_column25 data="0,0,0,0,0,0,0,0,0,0,147" />
+<bg3_column26 data="0" />
+<bg3_column27 data="0" />
+<bg3_column28 data="0" />
+<bg3_column29 data="0,0,0,0,0,0,0,0,0,0,147" />
+<bg3_column30 data="0" />
+<bg3_column31 data="0" />
+<bg3_column32 data="0" />
+<bg3_column33 data="0" />
+<bg3_column34 data="0" />
+<bg3_column35 data="0" />
+<bg3_column36 data="0" />
+<bg3_column37 data="0" />
+<bg3_column38 data="0" />
+<bg3_column39 data="0,0,0,0,0,0,0" />
+<bg3_column40 data="0,0,0,0,0,0,0" />
+<bg3_column41 data="0" />
+<bg3_column42 data="0,0,0,0,0,0,0" />
+<bg3_column43 data="0,0,0,0,0,0,0,0,0,0,147" />
+<bg3_column44 data="0" />
+<bg3_column45 data="0,0,0,0,0,0" />
+<bg3_column46 data="0,0,0,0,0,0,0,147" />
+<bg3_column47 data="0" />
+<bg3_column48 data="0" />
+<bg3_column49 data="0,0,0,0,0,0,0,147" />
+<bg3_column50 data="0,0,0,0,0,0" />
+<bg3_column51 data="0" />
+<bg3_column52 data="0,0,0,0,0,0,0,0,0,0,147" />
+<bg3_column53 data="0" />
+<bg3_column54 data="0" />
+<bg3_column55 data="0,0,0,0,0,0,0" />
+<bg3_column56 data="0" />
+<bg3_column57 data="0" />
+<bg3_column58 data="0" />
+<bg3_column59 data="0,0,0,0,0,0,0,0,0,147" />
+<bg3_column60 data="0" />
+<bg3_column61 data="0" />
+<bg3_column62 data="0" />
+<bg3_column63 data="0" />
+<bg3_column64 data="0,0,0,0,0,0,0,0,0,0,147" />
+<bg3_column65 data="0,0,0,0,0,147" />
+<bg3_column66 data="0" />
+<bg3_column67 data="0,0,0,0,0,147" />
+<bg3_column68 data="0,0,0,0,0,0" />
+<bg3_column69 data="0" />
+<bg3_column70 data="0" />
+<bg3_column71 data="0" />
+<bg3_column72 data="0" />
+<bg3_column73 data="0" />
+<bg3_column74 data="0,0,0,0,0,0,0,0,0,0,147" />
+<bg3_column75 data="0" />
+<bg3_column76 data="0" />
+<bg3_column77 data="0" />
+<bg3_column78 data="0,0,0,0,0,0,0" />
+<bg3_column79 data="0" />
+<bg3_column80 data="0" />
+<bg3_column81 data="0" />
+<bg3_column82 data="0" />
+<bg3_column83 data="0,0,0,0,0,0,147" />
+<bg3_column84 data="0" />
+<bg3_column85 data="0" />
+<bg3_column86 data="0" />
+<bg3_column87 data="0" />
+<bg3_column88 data="0,0,0,0,0,0,147" />
+<bg3_column89 data="0" />
+<bg3_column90 data="0" />
+<bg3_column91 data="0" />
+<bg3_column92 data="0" />
+<bg3_column93 data="0" />
+<bg3_column94 data="0,0" />
+<bg3_column95 data="0" />
+<bg3_column96 data="0,0,0,0,0,0,0,0,147" />
+<bg3_column97 data="0" />
+<bg3_column98 data="0" />
+<bg3_column99 data="0" />
+<bg3_column100 data="0" />
+<bg3_column101 data="0,0,0,0,0,0,0,0,147" />
+<bg3_column102 data="0" />
+<bg3_column103 data="0" />
+<bg3_column104 data="0" />
+<bg3_column105 data="0" />
+<bg3_column106 data="0" />
+<bg3_column107 data="0" />
+<bg3_column108 data="0,0,0,0,147" />
+<bg3_column109 data="0" />
+<bg3_column110 data="0" />
+<bg3_column111 data="0" />
+<bg3_column112 data="0" />
+<bg3_column113 data="0" />
+<bg3_column114 data="0,0,0,0,147" />
+<bg3_column115 data="0" />
+<bg3_column116 data="0" />
+<bg3_column117 data="0" />
+<bg3_column118 data="0" />
+<bg3_column119 data="0" />
+<bg3_column120 data="0" />
+<bg3_column121 data="0,0,0,0,0,0,0,0,147" />
+<bg3_column122 data="0" />
+<bg3_column123 data="0" />
+<bg3_column124 data="0,0,0,0,0,0,0,0,147" />
+<bg3_column125 data="0" />
+<bg3_column126 data="0" />
+<bg3_column127 data="0" />
+<bg3_column128 data="0" />
+<bg3_column129 data="0,0,146" />
+<bg3_column130 data="0" />
+<bg3_column131 data="0" />
+<bg3_column132 data="0" />
+<bg3_column133 data="0,0,0,0,0,0,0,0,0,0,147" />
+<bg3_column134 data="0,0,0,0,0,0,146" />
+<bg3_column135 data="0" />
+<bg3_column136 data="0" />
+<bg3_column137 data="0,146" />
+<bg3_column138 data="0" />
+<bg3_column139 data="0" />
+<bg3_column140 data="0" />
+<bg3_column141 data="0,0,0,0,0,0,0,0,0,0,147" />
+<bg3_column142 data="0,0,0,0,0,0,146" />
+<bg3_column143 data="0" />
+<bg3_column144 data="0" />
+<bg3_column145 data="0,0,146" />
+<bg3_column146 data="0" />
+<bg3_column147 data="0" />
+<bg3_column148 data="0" />
+<bg3_column149 data="0,0,0,0,0,0,0,0,0,0,147" />
+<bg3_column150 data="0" />
+<bg3_column151 data="0,0,0,0,0,0,0,0,0,0,147" />
+<bg3_column152 data="0" />
+<bg3_column153 data="0,0,0,0,0,0,0,0,0,0,147" />
+<bg3_column154 data="0" />
+<bg3_column155 data="0,0,0,0,0,0,0,0,0,0,147" />
+<bg3_column156 data="0" />
+<bg3_column157 data="0,0,0,0,0,0,0,0,0,0,147" />
+<bg3_column158 data="0" />
+<bg3_column159 data="0,0,0,0,0,0,0,0,0,0,147" />
+<bg3_column160 data="0" />
+<bg3_column161 data="0,0,0,0,0,0,0,0,0,0,147" />
+</bg3>
+<spawners1>
+<spawners1_1 data="1062,225,808,1,0,7,0,0,0,0,808," pathx="1062,1162" pathy="225,225" nodeaction="0,0" />
+<spawners1_2 data="1233,225,958,1,0,7,0,0,0,0,958," pathx="1233,1108" pathy="225,225" nodeaction="0,0" />
+<spawners1_3 data="1783,206,1358,1,0,7,0,0,0,0,1358," pathx="1783,1583" pathy="206,206" nodeaction="0,0" />
+<spawners1_4 data="1908,150,1658,1,0,7,0,0,0,0,1658," pathx="1908,2058" pathy="150,150" nodeaction="0,0" />
+<spawners1_5 data="2158,150,1858,1,0,7,0,0,0,0,1858," pathx="2158,1883" pathy="150,150" nodeaction="0,0" />
+<spawners1_6 data="2511,200,2183,1,0,7,0,0,0,0,2183," pathx="2511,2311" pathy="200,200" nodeaction="0,0" />
+<spawners1_7 data="2761,100,2481,1,0,7,0,0,0,0,2508," pathx="2761,2611" pathy="100,100" nodeaction="0,0" />
+<spawners1_8 data="2958,200,2683,1,0,7,0,0,0,0,2683," pathx="2958,3083" pathy="200,200" nodeaction="0,0" />
+<spawners1_9 data="3115,200,2758,1,0,7,0,0,0,0,2758," pathx="3115,2940" pathy="200,200" nodeaction="0,0" />
+<spawners1_10 data="3812,200,3533,1,0,7,0,0,0,0,3533," pathx="3812,3687" pathy="200,200" nodeaction="0,0" />
+<spawners1_11 data="3908,206,3633,1,0,7,0,0,0,0,3633," pathx="3908,3983" pathy="206,206" nodeaction="0,0" />
+<spawners1_12 data="3958,200,3683,1,0,7,0,0,0,0,3683," pathx="3958,3783" pathy="200,200" nodeaction="0,0" />
+<spawners1_13 data="1137,125,858,1,0,7,0,0,0,0,858," pathx="1137,1162" pathy="125,125" nodeaction="0,0" />
+<spawners1_14 data="1640,75,1333,1,0,7,0,0,0,0,1333," pathx="1640,1590" pathy="75,75" nodeaction="0,0" />
+<spawners1_15 data="3208,106,2933,1,0,7,0,0,0,0,2933," pathx="3208,3183" pathy="106,106" nodeaction="0,0" />
+<spawners1_16 data="3408,81,3133,1,0,7,0,0,0,0,3133," pathx="3408,3383" pathy="81,81" nodeaction="0,0" />
+<spawners1_17 data="611,200,358,1,0,7,0,0,0,0,358," pathx="611,661" pathy="200,200" nodeaction="0,0" />
+<spawners1_18 data="490,75,222,1,0,7,0,0,0,0,233," pathx="490,515" pathy="75,75" nodeaction="0,0" />
+<spawners1_19 data="983,175,708,1,0,7,0,0,0,0,708," pathx="983,958" pathy="175,175" nodeaction="0,0" />
+<spawners1_20 data="2337,200,2058,1,0,7,0,0,0,0,2058," pathx="2337,2412" pathy="200,200" nodeaction="0,0" />
+<spawners1_21 data="671,78,475,1,0,19,0,0,0,0,22," pathx="671,571" pathy="78,53" nodeaction="1,1" />
+<spawners1_22 data="321,53,135,1,0,19,0,0,0,0,222," pathx="321,246" pathy="53,153" nodeaction="0,1" />
+<spawners1_23 data="1074,77,723,1,0,26,0,0,0,0,751," pathx="1074,999" pathy="77,2" nodeaction="0,1" />
+<spawners1_24 data="824,277,475,1,0,26,0,0,0,0,526," pathx="824,749,799,824,799" pathy="277,227,202,152,77" nodeaction="0,0,0,1,0" />
+<spawners1_25 data="874,127,496,1,0,26,0,0,0,0,551," pathx="874,849,799,849" pathy="127,52,2,227" nodeaction="1,1,0,0" />
+<spawners1_26 data="1249,27,926,1,0,26,0,0,0,0,926," pathx="1249,1149,1024" pathy="27,-23,52" nodeaction="0,0,1" />
+<spawners1_27 data="1274,77,956,1,0,26,0,0,0,0,1001," pathx="1274,1274" pathy="77,27" nodeaction="0,1" />
+<spawners1_28 data="1349,227,1051,1,0,26,0,0,0,0,1051," pathx="1349,1299" pathy="227,177" nodeaction="0,1" />
+<spawners1_29 data="1474,77,1151,1,0,26,0,0,0,0,1151," pathx="1474,1374,1474" pathy="77,2,27" nodeaction="1,1,0" />
+<spawners1_30 data="1499,2,1201,1,0,26,0,0,0,0,1201," pathx="1499,1424" pathy="2,52" nodeaction="0,1" />
+<spawners1_31 data="1599,227,1251,1,0,26,0,0,0,0,1251," pathx="1599,1449" pathy="227,227" nodeaction="0,1" />
+<spawners1_32 data="1824,27,1476,1,0,26,0,0,0,0,1476," pathx="1824,1699" pathy="27,2" nodeaction="0,1" />
+<spawners1_33 data="1799,-23,1501,1,0,26,0,0,0,0,1501," pathx="1799,1724" pathy="-23,52" nodeaction="0,1" />
+<spawners1_34 data="2074,202,1776,1,0,26,0,0,0,0,1726," pathx="2074,1874" pathy="202,202" nodeaction="0,1" />
+<spawners1_35 data="2099,252,1776,1,0,26,0,0,0,0,1776," pathx="2099,1849" pathy="252,227" nodeaction="0,1" />
+<spawners1_36 data="2199,202,1926,1,0,26,0,0,0,0,1926," pathx="2199,2049" pathy="202,227" nodeaction="0,1" />
+<spawners1_37 data="2049,2,1726,1,0,26,0,0,0,0,1726," pathx="2049,1974" pathy="2,27" nodeaction="0,1" />
+<spawners1_38 data="2099,27,1751,1,0,26,0,0,0,0,1751," pathx="2099,1999" pathy="27,77" nodeaction="0,1" />
+<spawners1_39 data="2249,27,1959,1,0,26,0,0,0,0,1801," pathx="2249,2174,2149" pathy="27,77,27" nodeaction="0,0,1" />
+<spawners1_40 data="2224,77,1851,1,0,26,0,0,0,0,1851," pathx="2224,2024" pathy="77,27" nodeaction="0,1" />
+<spawners1_41 data="2249,2,1876,1,0,26,0,0,0,0,1876," pathx="2249,2124,2074" pathy="2,77,77" nodeaction="0,1,0" />
+<spawners1_42 data="2749,227,2455,1,0,26,0,0,0,0,2176," pathx="2749,2624" pathy="227,152" nodeaction="0,1" />
+<spawners1_43 data="2524,127,2128,1,0,26,0,0,0,0,2151," pathx="2524,2349" pathy="127,2" nodeaction="0,1" />
+<spawners1_44 data="2474,2,2101,1,0,26,0,0,0,0,2101," pathx="2474,2324" pathy="2,102" nodeaction="0,1" />
+<spawners1_45 data="2549,2,2251,1,0,26,0,0,0,0,2251," pathx="2549,2449" pathy="2,52" nodeaction="0,1" />
+<spawners1_46 data="2674,152,2381,1,0,26,0,0,0,0,2401," pathx="2674,2774" pathy="152,152" nodeaction="0,0" />
+<spawners1_47 data="2799,177,2503,1,0,26,0,0,0,0,2476," pathx="2799,2674" pathy="177,202" nodeaction="0,1" />
+<spawners1_48 data="2824,152,2518,1,0,26,0,0,0,0,2551," pathx="2824,2824" pathy="152,227" nodeaction="0,0" />
+<spawners1_49 data="2849,2,2550,1,0,26,0,0,0,0,2451," pathx="2849,2724" pathy="2,2" nodeaction="0,1" />
+<spawners1_50 data="2774,27,2485,1,0,26,0,0,0,0,2501," pathx="2774,2824" pathy="27,27" nodeaction="0,0" />
+<spawners1_51 data="3074,77,2771,1,0,26,0,0,0,0,2801," pathx="3074,2999" pathy="77,127" nodeaction="0,1" />
+<spawners1_52 data="2974,102,2667,1,0,26,0,0,0,0,2701," pathx="2974,3074" pathy="102,27" nodeaction="0,0" />
+<spawners1_53 data="3099,127,2802,1,0,26,0,0,0,0,2826," pathx="3099,3099" pathy="127,2" nodeaction="0,0" />
+<spawners1_54 data="3199,227,2911,1,0,26,0,0,0,0,2951," pathx="3199,3199" pathy="227,152" nodeaction="1,0" />
+<spawners1_55 data="3199,152,2911,1,0,26,0,0,0,0,2926," pathx="3199,3199" pathy="152,227" nodeaction="0,0" />
+<spawners1_56 data="3324,102,3013,1,0,26,0,0,0,0,3051," pathx="3324,3299" pathy="102,2" nodeaction="0,0" />
+<spawners1_57 data="3299,27,3002,1,0,26,0,0,0,0,3026," pathx="3299,3299" pathy="27,127" nodeaction="0,1" />
+<spawners1_58 data="3399,127,3089,1,0,26,0,0,0,0,3126," pathx="3399,3399" pathy="127,177" nodeaction="1,0" />
+<spawners1_59 data="3424,252,3081,1,0,26,0,0,0,0,3126," pathx="3424,3424" pathy="252,127" nodeaction="0,0" />
+<spawners1_60 data="3499,127,3205,1,0,26,0,0,0,0,3226," pathx="3499,3524" pathy="127,27" nodeaction="0,1" />
+<spawners1_61 data="3499,27,3202,1,0,26,0,0,0,0,3226," pathx="3499,3499,3524" pathy="27,77,102" nodeaction="0,0,0" />
+<spawners1_62 data="3624,152,3291,1,0,26,0,0,0,0,3351," pathx="3624,3599" pathy="152,227" nodeaction="0,0" />
+<spawners1_63 data="3624,227,3298,1,0,26,0,0,0,0,3351," pathx="3624,3599" pathy="227,152" nodeaction="0,0" />
+<spawners1_64 data="3901,64,3551,0,100,27,0,0,1,0,3732," pathx="3901,3801,3751" pathy="64,114,64" nodeaction="2,0,1" />
+<spawners1_65 data="874,27,601,1,0,26,0,0,0,0,601," pathx="874,774" pathy="27,27" nodeaction="1,1" />
+<spawners1_66 data="949,227,676,1,0,26,0,0,0,0,676," pathx="949,1024" pathy="227,227" nodeaction="1,1" />
+<spawners1_67 data="1449,2,1076,1,0,26,0,0,0,0,1076," pathx="1449,1224" pathy="2,27" nodeaction="0,0" />
+<spawners1_68 data="2024,227,2062,1,0,26,0,0,0,0,1551," pathx="2024,2224" pathy="227,227" nodeaction="0,1" />
+<spawners1_69 data="2524,77,2201,1,0,26,0,0,0,0,2201," pathx="2524,2324" pathy="77,52" nodeaction="0,1" />
+<spawners1_70 data="2524,52,2229,1,0,26,0,0,0,0,2126," pathx="2524,2399" pathy="52,127" nodeaction="0,1" />
+<spawners1_71 data="2824,2,2504,1,0,26,0,0,0,0,2401," pathx="2824,2649" pathy="2,27" nodeaction="0,1" />
+<spawners1_72 data="2999,27,2726,1,0,26,0,0,0,0,2726," pathx="2999,3049" pathy="27,2" nodeaction="0,0" />
+<spawners1_73 data="3024,77,2733,1,0,26,0,0,0,0,2751," pathx="3024,2974" pathy="77,52" nodeaction="1,1" />
+<spawners1_74 data="3224,202,2916,1,0,26,0,0,0,0,2951," pathx="3224,3199,3199" pathy="202,152,127" nodeaction="0,1,0" />
+<spawners1_75 data="3299,77,2999,1,0,26,0,0,0,0,3026," pathx="3299,3324" pathy="77,2" nodeaction="0,0" />
+<spawners1_76 data="3424,177,3151,1,0,26,0,0,0,0,3151," pathx="3424,3399" pathy="177,227" nodeaction="0,1" />
+<spawners1_77 data="2717,95,2442,1,0,29,0,0,0,0,2442," pathx="2717" pathy="95" nodeaction="0" />
+<spawners1_78 data="849,2,885,1,0,26,0,0,0,0,576," pathx="849,1149" pathy="2,2" nodeaction="0,1" />
+<spawners1_79 data="1199,27,889,1,0,26,0,0,0,0,1026," pathx="1199,1049" pathy="27,2" nodeaction="0,0" />
+<spawners1_80 data="1312,72,1211,2,80,14,0,0,0,0,917," pathx="1312,1287" pathy="72,72" nodeaction="1,0" />
+<spawners1_81 data="2037,125,1987,5,50,2,0,0,0,0,1842," pathx="2037,2212" pathy="125,125" nodeaction="1,2" />
+<spawners1_82 data="1987,125,1717,6,60,2,0,0,0,0,1717," pathx="1987,1887" pathy="125,125" nodeaction="0,1" />
+<spawners1_83 data="1644,174,1442,8,80,15,0,0,0,0,1367," pathx="1644,1769" pathy="174,174" nodeaction="1,1" />
+<spawners1_84 data="2344,174,2209,4,100,15,0,0,0,0,2167," pathx="2344,2494" pathy="174,174" nodeaction="0,1" />
+<spawners1_85 data="2862,73,2592,5,80,13,0,0,0,0,2592," pathx="2862,2637" pathy="73,73" nodeaction="0,0" />
+<spawners1_86 data="3087,172,2767,3,100,14,0,0,0,0,2767," pathx="3087,2987" pathy="172,172" nodeaction="0,1" />
+<spawners1_87 data="3287,172,3113,2,80,14,0,0,0,0,3017," pathx="3287,3312" pathy="172,172" nodeaction="1,2" />
+<spawners1_88 data="3487,172,3217,3,50,14,0,0,0,0,3217," pathx="3487,3512" pathy="172,172" nodeaction="0,1" />
+<spawners1_89 data="3769,174,3492,3,80,15,0,0,0,0,3492," pathx="3769,3819" pathy="174,174" nodeaction="1,0" />
+<spawners1_90 data="3919,174,3642,4,80,15,0,0,0,0,3642," pathx="3919,3694" pathy="174,174" nodeaction="1,0" />
+<spawners1_91 data="137,175,50,1,0,2,0,0,0,0,-133," pathx="137,162" pathy="175,175" nodeaction="1,2" />
+<spawners1_92 data="162,-27,11,1,0,13,0,0,0,0,-108," pathx="162,187" pathy="-27,-27" nodeaction="0,0" />
+<spawners1_93 data="269,99,59,1,0,15,0,0,0,0,-8," pathx="269,244" pathy="99,99" nodeaction="0,0" />
+<spawners1_94 data="387,175,117,1,0,2,0,0,0,0,117," pathx="387,362" pathy="175,175" nodeaction="0,0" />
+<spawners1_95 data="1187,98,917,1,0,13,0,0,0,0,917," pathx="1187,1112" pathy="98,98" nodeaction="0,1" />
+<spawners1_96 data="1087,200,948,3,80,2,0,0,0,0,842," pathx="1087,1162" pathy="200,200" nodeaction="1,0" />
+<spawners1_97 data="1612,50,1342,1,0,2,0,0,0,0,1342," pathx="1612,1587" pathy="50,50" nodeaction="0,0" />
+<spawners1_98 data="3187,72,2982,1,0,14,0,0,0,0,3017," pathx="3187,3212" pathy="72,72" nodeaction="1,2" />
+<spawners1_99 data="3387,47,3189,1,0,14,0,0,0,0,3017," pathx="3387,3412" pathy="47,47" nodeaction="1,2" />
+<spawners1_100 data="471,78,325,1,0,19,0,0,0,0,97," pathx="471,446" pathy="78,178" nodeaction="1,1" />
+<spawners1_101 data="3050,200,2775,1,0,11,0,0,0,0,2775," pathx="3050" pathy="200" nodeaction="0" />
+<spawners1_102 data="3800,25,3442,1,0,30,0,0,0,0,3442,Destroy the hive to stop the bugs." pathx="3800" pathy="25" nodeaction="0" />
+<spawners1_103 data="962,148,764,2,100,13,0,0,0,0,692," pathx="962,987" pathy="148,148" nodeaction="1,0" />
+<spawners1_104 data="1500,150,1225,1,0,10,0,0,0,0,1225," pathx="1500" pathy="150" nodeaction="0" />
+<attack_patterns>
+<attack_pattern spawner="20" node="0" pattern="13" /><attack_pattern spawner="20" node="1" pattern="17" /><attack_pattern spawner="21" node="1" pattern="18" /><attack_pattern spawner="22" node="1" pattern="19" /><attack_pattern spawner="23" node="3" pattern="12" /><attack_pattern spawner="24" node="1" pattern="13" /><attack_pattern spawner="25" node="2" pattern="17" /><attack_pattern spawner="26" node="1" pattern="13" /><attack_pattern spawner="27" node="1" pattern="3" /><attack_pattern spawner="28" node="1" pattern="18" /><attack_pattern spawner="29" node="1" pattern="11" /><attack_pattern spawner="30" node="1" pattern="13" /><attack_pattern spawner="31" node="1" pattern="18" /><attack_pattern spawner="32" node="1" pattern="12" /><attack_pattern spawner="33" node="1" pattern="8" /><attack_pattern spawner="34" node="1" pattern="13" /><attack_pattern spawner="35" node="1" pattern="8" /><attack_pattern spawner="36" node="1" pattern="14" /><attack_pattern spawner="37" node="1" pattern="9" /><attack_pattern spawner="38" node="2" pattern="19" /><attack_pattern spawner="39" node="1" pattern="3" /><attack_pattern spawner="40" node="1" pattern="11" /><attack_pattern spawner="41" node="1" pattern="13" /><attack_pattern spawner="42" node="1" pattern="18" /><attack_pattern spawner="43" node="1" pattern="7" /><attack_pattern spawner="44" node="1" pattern="15" /><attack_pattern spawner="46" node="1" pattern="7" /><attack_pattern spawner="48" node="1" pattern="14" /><attack_pattern spawner="50" node="1" pattern="8" /><attack_pattern spawner="56" node="1" pattern="13" /><attack_pattern spawner="59" node="1" pattern="12" /><attack_pattern spawner="63" node="2" pattern="18" /><attack_pattern spawner="64" node="1" pattern="18" /><attack_pattern spawner="65" node="1" pattern="8" /><attack_pattern spawner="68" node="1" pattern="9" /><attack_pattern spawner="69" node="1" pattern="13" /><attack_pattern spawner="70" node="1" pattern="23" /><attack_pattern spawner="72" node="1" pattern="12" /><attack_pattern spawner="73" node="1" pattern="7" /><attack_pattern spawner="75" node="1" pattern="8" /><attack_pattern spawner="77" node="1" pattern="13" /><attack_pattern spawner="79" node="0" pattern="18,24" /><attack_pattern spawner="80" node="0" pattern="17" /><attack_pattern spawner="81" node="1" pattern="12" /><attack_pattern spawner="82" node="0" pattern="18" /><attack_pattern spawner="82" node="1" pattern="9" /><attack_pattern spawner="83" node="1" pattern="17" /><attack_pattern spawner="85" node="1" pattern="12" /><attack_pattern spawner="86" node="0" pattern="13" /><attack_pattern spawner="87" node="1" pattern="13" /><attack_pattern spawner="88" node="0" pattern="13" /><attack_pattern spawner="89" node="0" pattern="12" /><attack_pattern spawner="90" node="0" pattern="13,14" /><attack_pattern spawner="94" node="1" pattern="13" /><attack_pattern spawner="95" node="0" pattern="8" /><attack_pattern spawner="97" node="0" pattern="13" /><attack_pattern spawner="98" node="0" pattern="13" /><attack_pattern spawner="99" node="0" pattern="14" /><attack_pattern spawner="99" node="1" pattern="12" /><attack_pattern spawner="102" node="0" pattern="13" /></attack_patterns>
+</spawners1>
+<spawners2>
+<attack_patterns>
+</attack_patterns>
+</spawners2>
+<bg data="1" />
+<castle data="1" />
+<rain data="1" />
+<lightening data="1" />
+<fog data="0" />
+<level_message data="" />
+</shooter_level>

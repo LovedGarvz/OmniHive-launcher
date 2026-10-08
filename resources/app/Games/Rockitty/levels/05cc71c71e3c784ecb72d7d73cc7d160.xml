@@ -1,0 +1,131 @@
+<BalanceLevel>
+<NumStaticBlocks data="11"/>
+<BlockDef_1 water="0" nodrag="0" deadzone="0" forcefield="0" circle="0" data="-130,200,320,200,320,300,-130,300"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID=""  texture="0" />
+<BlockDef_2 water="0" nodrag="0" deadzone="0" forcefield="0" circle="0" data="-340,170,-240,170,-240,200,-220,200,-210,210,-140,210,-130,200,-130,300,-340,300"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID=""  texture="0" />
+<BlockDef_3 water="0" nodrag="0" deadzone="0" forcefield="0" circle="0" data="-340,-350,-240,-350,-240,170,-340,170"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID=""  texture="0" />
+<BlockDef_4 water="0" nodrag="0" deadzone="0" forcefield="0" circle="0" data="-240,-350,320,-350,320,-250,-240,-250"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID=""  texture="0" />
+<BlockDef_5 water="0" nodrag="0" deadzone="0" forcefield="0" circle="0" data="220,-250,320,-250,320,200,220,200"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID=""  texture="0" />
+<BlockDef_6 water="0" nodrag="0" deadzone="0" forcefield="0" circle="0" data="-110,-80,-100,-110,-90,-120,-60,-130,50,-130,80,-120,100,-90,110,-30,110,70,50,70,50,-70,-40,-70,-40,200,-110,200"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID=""  texture="0" />
+<BlockDef_7 water="0" nodrag="0" deadzone="0" forcefield="0" circle="0" data="-240,-250,-80,-250,-150,-240,-180,-230,-200,-220,-220,-200,-230,-170,-240,-70"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID=""  texture="0" />
+<BlockDef_8 water="0" nodrag="0" deadzone="0" forcefield="0" circle="0" data="90,-250,220,-250,220,-50,210,-120,200,-170,180,-210,160,-230,140,-240"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID=""  texture="0" />
+<BlockDef_9 water="0" nodrag="0" deadzone="0" forcefield="0" circle="0" data="210,110,220,40,220,200,80,200,150,190,180,180,200,150"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID=""  texture="0" />
+<BlockDef_10 water="0" nodrag="0" deadzone="0" forcefield="0" circle="0" data="-40,70,-30,140,-20,170,-10,180,20,190,70,200,-40,200"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID=""  texture="0" />
+<BlockDef_11 water="0" nodrag="1" deadzone="0" forcefield="0" circle="0" data="-40,-70,50,-70,50,20,-40,20"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID=""  texture="0" />
+<NumElementBlocks data="94"/>
+<ElementDef_1 data="1,-180,250,1"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_2 data="14,-220,140"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_3 data="14,-220,110"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_4 data="14,-220,80"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_5 data="14,-220,50"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_6 data="14,-220,20"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_7 data="14,-220,-10"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_8 data="14,-220,-40"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_9 data="14,-220,-70"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_10 data="14,-220,-100"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_11 data="14,-210,-130"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_12 data="14,-210,-160"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_13 data="14,-200,-190"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_14 data="14,-170,-210"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_15 data="14,-140,-230"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_16 data="14,-100,-240"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_17 data="14,-60,-240"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_18 data="14,-20,-240"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_19 data="14,20,-240"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_20 data="14,60,-240"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_21 data="14,100,-230"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_22 data="14,140,-220"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_23 data="14,170,-200"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_24 data="14,180,-170"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_25 data="14,190,-140"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_26 data="14,200,-110"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_27 data="14,200,-80"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_28 data="14,200,-50"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_29 data="14,200,-20"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_30 data="14,200,10"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_31 data="14,200,40"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_32 data="14,200,70"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_33 data="14,200,100"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_34 data="14,190,130"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_35 data="14,180,160"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_36 data="14,150,180"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_37 data="14,110,190"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_38 data="14,70,190"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_39 data="14,30,180"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_40 data="14,0,160"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_41 data="14,-20,130"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_42 data="14,-20,100"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_43 data="14,-20,70"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_44 data="14,30,70"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_45 data="14,60,90"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_46 data="14,100,90"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_47 data="14,130,70"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_48 data="14,130,40"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_49 data="14,130,10"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_50 data="14,130,-20"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_51 data="14,130,-50"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_52 data="14,120,-80"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_53 data="14,110,-110"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_54 data="14,80,-130"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_55 data="14,40,-140"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_56 data="14,0,-140"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_57 data="14,-40,-140"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_58 data="14,-80,-130"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_59 data="14,-110,-110"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_60 data="14,-130,-80"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_61 data="14,-130,-50"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_62 data="14,-130,-20"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_63 data="14,-130,10"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_64 data="14,-130,40"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_65 data="14,-130,70"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_66 data="14,-130,100"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_67 data="14,-130,130"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_68 data="37,90,140"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_69 data="37,-110,-180"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_70 data="37,100,-180"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_71 data="36,-170,90"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_72 data="36,-180,60"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_73 data="36,-170,30"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_74 data="36,-180,0"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_75 data="36,-170,-30"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_76 data="36,-180,-60"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_77 data="36,-170,-90"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_78 data="36,-160,-120"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_79 data="36,-60,-190"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_80 data="36,-10,-190"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_81 data="36,40,-190"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_82 data="36,-140,-150"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_83 data="36,150,-120"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_84 data="36,160,-90"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_85 data="36,170,-60"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_86 data="36,160,-30"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_87 data="36,170,0"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_88 data="36,160,30"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_89 data="36,170,60"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_90 data="36,160,90"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_91 data="36,140,120"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_92 data="36,40,120"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_93 data="36,-180,120"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<ElementDef_94 data="36,130,-150"  movementInfo="1,1,0,0,0,0,0" linkageID=""  keyID="" />
+<NumStamps data="19"/>
+<StampDef_1 data="20,-215,209,0,-1,0"/>
+<StampDef_2 data="19,-179,216,0,-1,0"/>
+<StampDef_3 data="22,-141,209,0,-1,0"/>
+<StampDef_4 data="25,-65,-82,0,-1,0"/>
+<StampDef_5 data="41,85,178,0,-1,0"/>
+<StampDef_6 data="43,132,189,0,-1,0"/>
+<StampDef_7 data="43,-30,-136,0,-1,0"/>
+<StampDef_8 data="42,17,-139,0,-1,0"/>
+<StampDef_9 data="27,-81,-56,0,-1,0"/>
+<StampDef_10 data="27,228,-206,0,-1,0"/>
+<StampDef_11 data="27,-83,211,0,-1,0"/>
+<StampDef_12 data="25,247,-116,0,-1,0"/>
+<StampDef_13 data="25,84,38,0,-1,0"/>
+<StampDef_14 data="27,-296,-306,0,-1,0"/>
+<StampDef_15 data="123,237,213,0,-1,0"/>
+<StampDef_16 data="123,-202,-284,0,-1,0"/>
+<StampDef_17 data="19,3,3,180,-1,0"/>
+<StampDef_18 data="22,-35,9,180,-1,0"/>
+<StampDef_19 data="20,39,10,180,-1,0"/>
+<NumLevelBlocks data="0"/>
+<NumInitialBlocks data="0"/><ScrollLimits data="-275,275,-275,275,0,0"/>
+<Score data="3" /><Time data="30" /></BalanceLevel>

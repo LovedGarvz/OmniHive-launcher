@@ -1,0 +1,10 @@
+<root>
+  <level width="19" height="45" start_x="9" start_y="38" compression="true"/>
+  <tiles values="0:855" id="0"/>
+  <tiles values="258,354,ą5:3Č71:9Č5ĎĐĉ5Ė8:2ĈĊĖĎğ2Ē,0Ĕđ1ĢĞĠěąĝğĉċčĪħ:1īĥĺėĮĜĭĳĶĨ1ĐĻľİŀġŃěĚĿĲŊĸŌĽňŏċŋŇĆŉŖőŘıĠś1ŒįřŕķšŝŚŦŢŎşŪŨťŗōŔŭűœŤŴŜŲŷŁŵţŞżŹŶſŐŧźƃŠūųƀƅƂũŽŬƋƉŻƄƒƇŮƆƎƁžƙƌƛŰƚƐƔůŸƝơƈƣƑƨƢƘƟƥƊƫƍƭƕƜƳƲƪƧƬƤƵƺƷƗƱŭą0ŦŅ5ǂƹŁĵǁŦļǂĵǇġčĭǊĨĕǊǑŏƞǀėďķǕǛęƂ" id="1"/>
+  <tiles values="0:42,55,ą9ĉċą7ď:3Č:ĒĊĔĖĘĐ:ĎĊĖ28,26ĖĦĥĖ31ĤĒ0,6įąĕ2Į:1ĈĵĖċĺą1ĴĦąĹŁķįĽ:ĈĠĳĭĪďġŌđŎőŊ:5į39Ĳň,ŘŚ2ğĝĿŒĆţŢŔ4ţĦŔŪĝĜōŔĕŔ1įŔŮőĩľŃĖĸŬŻĬ68ĚŸĚŔźįƀĚąċŔƋĝƍġ1ĜĞŻņ7ƓƊ" id="2"/>
+  <tiles values="0:855" id="3"/>
+  <tiles values="0:855" id="4"/>
+  <tiles values="0:855" id="5"/>
+  <msg text="Bash into the Bumpers and you'll be bounced about. A good way to practise your flying skills. Avoid the Dark matter balls as they will damage you."/>
+</root>

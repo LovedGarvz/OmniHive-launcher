@@ -1,0 +1,2 @@
+Please note that Mallet mania doesn't work with flash 9 or flash 32. I haven't tested all versions but at least flash 13 works. 
+This game also needs the multi file fix explained in the _README folder to work.

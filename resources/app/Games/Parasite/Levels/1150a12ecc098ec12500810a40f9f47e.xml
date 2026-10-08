@@ -1,0 +1,15 @@
+<root>
+  <level width="46" height="23" start_x="1" start_y="20" compression="true"/>
+  <tiles values="0:224,115,ą4č173Ď:12Ċēĕ3ĘĒĉą8Ċ4ĔąĔĞĕĉĒĤĆ7ęĩĚąĭħĥĮĕĝİĵĴ1ģĶĦļĳ:đļ0Ĺ:Ħ7ğĆĹŅŇŉ2ōŊąđňĎŌŅķğŖħĪĶķľīĻŋŀşŗŘęčąšŜńţĮőęī2ŬŔūĖįřĻīŐĘųŎųŇŨŶĢĤŚĚĳŗŽŰĕŪŔƉŹĶŮĝĿƍĆƎ7ƁŞƋŬƓŸňőŊŜĞņŕŵ1ġśƗƐŀ1ŽůƨűŮŇƄƫƧŴƩąŦũƛōƤƞżƠƞƝŉ19ŧƋŻƤƜƪƜƣƏţƼƏƭƿœ4ƣĥǈǒĕ78" id="0"/>
+  <tiles values="92,0:44,93Č5ćĉċčďđĊČĎ9ĐĈėĔĚđ38,87ģ8ĉģ9ĘĕĜēęě:6,110ĳĴķĎĈ3ĐĞĐĵĪĴĶĴ1ĹķŃĴ:ĆĴĺ:ĎłņĈ2ĥŐŌđĆľđĢŀŊĠČĶąĳ0ĪŒŅŕ1ŋ1ōĮĕŀđŨīğŒĪĞĢĈŪűěŇőŊňň2ŝŖŒű1ŝš9ŠƅęĆĈĲřŮŧō2ƎĎ8ƎēĽƎ7ŎČŶŻƂƜřƃŧŦŸŒžķũĺűċƖĬ:śţƟŸƢŊŏĵżŬ9ƛŘŶıƳƥƒŹƳƫƑŗƨƠŘƋůǈŸŮƢǄŗĿƲƵĲƤƜǉǃŜƌƁƸńż2ǊƯǞǤǁǃƣǤƒƭƺİŔƲǆĻǧ:1ĽƉǳǋŲǳǍŏǔƎśǩćǑŮƍşČŅƇę4Ƿĕ9ƾŁȀƃƈȆơǜƎƉČǢ9ƘƬȋğȒ9ƅŰȈČȊįȅȠĨȣȚȌȉȬȤȝĽȉǳŘȱȯȦĞȊțȸȮȫȞȲƴ5" id="1"/>
+  <tiles values="0:179,48F,ą94,51ĎĆ7,Ĕą7ėę:60Ēĝ3Ġċčą8Ĕēĕ14ĩĝ6ġī2ıą6ĔĝĜīĮĕ8ĴĆĉ21ĉą3ĳĪĵĊČīėŇ:đĝ23ľ153" id="2"/>
+  <tiles values="0:91,18ą2,ą44ĉ78:čą39Ē6ĎĚĎĕ,203ĞĘĠĢĉċĜġ7Ē8ĜĊ0ĞĮ17ĬėěĴĮďĸĩČĦģą1ĈĴěČĸēĞčīĒĶ:ĳňďĦ5ŌĞ7œġŀĝőńŕĦō2œĹĞđĴĬİĭŉŔıŧťŝŭľŧņŨŰĽų:ŤŐ:1ūĽ:3ŏŏĬŋėčů:ļıėšĩŢŁĈġŅğůĨƉĕŦĵƔĞŇĺŷƂ0Ƒ2ƅ7ƑŸƠŚžĝƍźŊ0ęıġœŁƈŨŘũűŞįŐĿƙƯ0ƗƜłƻūƘƽŀƨű:šƣįŵŋƓŬǄƸƷƆƢĶƼŷƧƥğėĝƵǏŽƥĤŪǘƷƃƒŹęǞŹƬŅĦƮƒŽǬǗģǥƾƶĩǞŵǈǕǌƕŇşǳŔǵđśǠĦƳżƕǊƁǷǃƜǿųǗƬȀǻŌ" id="3"/>
+  <tiles values="0:687,5,ą129ĊČ:240" id="4"/>
+  <tiles values="0:244,10Č:3,ą4ďċčďą30ĊČđĐ:9ĚĕĝĘĠĜđ2Ĥ:ĉĦĨĪĆ16Ĩ5ĢĲĔąĲąħĵĩĳıĝĹěĻėĴŀķĆĬĝğĺĖĩēŀŋĒĨŋ1Ę" id="5"/>
+  <sign text="i can use my energy radar arrow to find the large forest spirits. Once I have collected all of them I will have drained this horribly pleasent planet, leaving a stinky dead dust ball. just how i like them. " n="292" layer="2" width="5" height="1"/>
+  <sign text="A lovely big forest spirit to fuel my mining machines. I must collect all of these. Should my mighty but delicate body get destroyed i will be reborn at the last mining machine i walked past! " n="370" layer="2" width="5" height="1"/>
+  <sign text="if i press the up arrow he flaps his wings. I shall enjoy flying this slave! When i tire of these creatures i press the monster exit button (x key) to make them explode! i like that bit the best!" n="776" layer="2" width="5" height="1"/>
+  <sign text="The first energy mining machine is ready! Time to explore this twee world using the arrow keys." n="880" layer="2" width="3" height="1"/>
+  <sign text="a sweet happy kitty?...he is bigger than i expected, i must be careful not to touch these giant creatures but If i jump on to just  his head i can control him. i shall make him a tool of evil! " n="768" layer="2" width="5" height="1"/>
+  <msg text=""/>
+</root>

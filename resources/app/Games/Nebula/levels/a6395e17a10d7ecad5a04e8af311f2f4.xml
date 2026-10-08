@@ -1,0 +1,10 @@
+<root>
+  <level width="43" height="38" start_x="20" start_y="26" compression="true"/>
+  <tiles values="0:1634" id="0"/>
+  <tiles values="0:1634" id="1"/>
+  <tiles values="30:44,Ć18,55Ċ,ą:3,29Ċ:2ĎĐċĉēěĆč37ę11ĖĘ0ĒīċĨĤę6ĬĚđ6ĭ:1ĲďęĕēĕīĻċīĶļĳġĸŃĨĆąņĦčŁĜđŐœĝĔ,6ŊňōĆ4įĆŇĺĝőŀŢŔęĐ3ĪŚ5ŪĘĠŅŘęģŪ1ĥŦŤŒŢűşś:šđėđľŹĦŉıĒŪģżī3ĲĢĬĩŎţƑƌĭţćŽſƕŖŋƗĕŻĸŨķğčƛŇŌŐƃŸŜƙƓŷƮŕ2ĲůƯŁ:čűƵťŢ3ƻƄƝƺƿƘůŋƟřĥůƁƕǂĘŐǊĳĐǊĴƶ1ğƋĴŌƌƎĸĽżǏǙĸƳƥǐǌƓēĉżƪƗǍƾŸǄćŞǓǭƞŗřĐǁƫưǥƩīǟǗ3ƊęěůƠƲǵŲǦĆŕƚǺƫĚƊĴşŶǳƺȑǺǯŨȌǾǂ2ȐŇ1ǋċȚĪĳĿǴȀƂƋ,4ŇĉǼƜƗČƐǒȞęŶŴǬȩƜĴ4ȎƢȑŖȅȍȍȏŽȠȫřĹƓŝƿɄěɂǯɌǯģĥȊɃǸĸȵċɏɉƸřŮǗǕȉŖǒěǔĉńƝǄŗķɢțĞĒŕǈǗĐƠŏŕǝȰǔȐĈ" id="2"/>
+  <tiles values="0:1634" id="3"/>
+  <tiles values="0:1634" id="4"/>
+  <tiles values="0:1634" id="5"/>
+  <msg text="Blue stragglers! Avoid these grumpy free roaming stars! They bump about causing all kinds of trouble. Use the neutron bombs to get rid of them."/>
+</root>

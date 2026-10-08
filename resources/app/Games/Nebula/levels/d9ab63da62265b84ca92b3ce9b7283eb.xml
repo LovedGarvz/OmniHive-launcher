@@ -1,0 +1,10 @@
+<root>
+  <level width="52" height="19" start_x="6" start_y="6" compression="true"/>
+  <tiles values="0:988" id="0"/>
+  <tiles values="127:19,223ċ24,ą7ďĎČđē:28ċ1Ĝ2ĉĈğ20ďĘĆĕď1ĝ9ĚĔČ2ĩ13ĎąĜĳı0Ĉ5ĒĴĦĒĨČĵľĺĐŀķ3ıĳĖņłĒĉ,ĺĞĿēĩŅĔ1ŐėĲ4ĥŒģħįčőĮĒŝĿŎŒĊśŕũĚŠŖĈūņŭţŅŰŮ1ĥĉīĉĎĺŢšűŢģ6ĚďĔŒƁűźŨŶ:ƋŵſƐŔĆƇŹƋŹĥśŮƑŁƏƞćıƘƎƓƍƜƠƕŢƓơƗƏ1ƙƯƛōƩČīĠųŞƔŬƖƣƯƱƦƳđƤƼƢƌǀŤƧƴƦƭƾǌƥŏĊĺųǃƿƪƮƦ6Ǒǐ1ŧǓǐƊǗǎǉǚǝǂĲľĶĽĹ:ǥľƨŃƦļŋǢǨƦĵěǫĽŌǕļČƆųǈČƅĻƈǵŎȃďƆ1ǚČĊęǊǼĩǅȅȈŴƽȓȗćư" id="1"/>
+  <tiles values="0:220,55,ĉċčĊČą9đĐďĎĒĕĘĖĒ:83Ě:ĔėĢġ51ġ3ĨĤģĝ4īĝĭčĥėĚĶĵĸęĤ1ĲēġįġĽĴĝ1İĳ44,6ĉą26ŁŐĻņą58ķĺŘĳŏĹĜŝěşŃŞŗŢŜą159" id="2"/>
+  <tiles values="0:988" id="3"/>
+  <tiles values="0:988" id="4"/>
+  <tiles values="0:988" id="5"/>
+  <msg text="Hello little Star. Time to start your training to become a Red Giant like me. To complete a level you must find all the Cosmic Keys. Draw lines of stars to guide your way."/>
+</root>

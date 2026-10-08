@@ -1,0 +1,11 @@
+<root>
+  <level width="13" height="11" start_x="5" start_y="3" compression="false" tutorial="false"/>
+  <tiles values="0:143" id="0"/>
+  <tiles values="15:12,16,15,134,131,15:8,131,15:2,130,15:2,16:2,15,130,15:9,16,15:6,16,130,15:7,16:3,15:2,16,15,16:2,15:5,16,15:7,16,15:13,16,133,134,15:11,131,15:3,16,15,130,133,15:4,16,15:6,16,15:12,131,15:1" id="1"/>
+  <tiles values="0:21,1,0:121" id="2"/>
+  <tiles values="135,122,107,6,0:2,107,122,120,0,5,0:2,135,0:8,76S(2),0,153,0:3,122:2,0:4,140,0,135,0:2,5,0,140,0:7,135,0:6,122:3,0:3,135,0:2,5,0:10,153,0:5,122,0,122,76S(2),0:2,5,0:2,135,0,140,0:5,140,0:2,4:2,135,0:2,122,0:3,122,0:2,73S(2),0:2,135,76S(2),0:10,105,0,122,107,6,0:2,107,4,120,0,122,0:2" id="3"/>
+  <tiles values="0:70,55,0:72" id="4"/>
+  <tiles values="0:143" id="5"/>
+  <sign text="This shadowy figure cannot move but is highly dangerous. It has a keen eyesight and its evil glare will turn you to stone if you are within his sights. A guide line will show you which direction it is looking in. Make sure you keep cover behind walls and avoid standing out in the open." n="21" layer="2" width="0" height="0"/>
+  <msg text=""/>
+</root>
