@@ -1,11 +1,0 @@
-<root>
-  <level width="13" height="12" start_x="0" start_y="2" compression="false" tutorial="true"/>
-  <tiles values="0:156" id="0"/>
-  <tiles values="15:14,134,15,131,132,15:2,132,15:3,130,15:14,0:13,60:11,19:2,58:5,59:3,58:3,133,130,0:5,59:3,0:3,21,134,19:2,20,0:2,58:3,0:3,21,15,134,15,24,0:7,17,15:4,24,0:3,29,0:3,21,15:3,132,24,0:3,27,0:3,21,134,15,133,16,23,0:3,27,0:3,21,16,132:1" id="1"/>
-  <tiles values="0:28,1,0:10,53,52:2,53:2,52:2,53:3,52,53,52,0:26,53:5,0:3,53:3,0:20,54,53,49,0:44" id="2"/>
-  <tiles values="119,0,121,120,0,122,4,122,119,0,4,122:2,0:6,121,0:3,118,0:6,126,0:3,126,0:3,126,0:52,105,0:11,126,0,136,139,0:7,136,139,0,119,0:5,121,0:4,122,140,139,0,126,0:7,126,0:8,4,0:6" id="3"/>
-  <tiles values="0:156" id="4"/>
-  <tiles values="0:156" id="5"/>
-  <sign text="These shiny mirror blocks can be used to rebound off. Try and use them to aim for the star tiles marked out for you on the stage floor.A handy guide has been given to you for this level, so try and get used to jumping and reflecting around corners. " n="28" layer="2" width="0" height="0"/>
-  <msg text=""/>
-</root>

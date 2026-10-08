@@ -1,11 +1,0 @@
-<root>
-  <level width="20" height="18" start_x="2" start_y="15" compression="false" tutorial="false"/>
-  <tiles values="0:360" id="0"/>
-  <tiles values="15:31,130,15:4,130,15:14,134,131,132,15:27,132,15,134,15:14,132,15:49,132,15:13,130,15:19,133,15:10,133,15:18,131,130,15:9,131,15:33,133,132,15:17,130,15:30,134,133,132,15:11,132,15:6,130,15:31" id="1"/>
-  <tiles values="0:343,1,0:16" id="2"/>
-  <tiles values="107,120,0,139,136,122:2,139,136,120,0,139:2,122:2,136,139,120,0,107,136,0:14,135,0,105,0,138,139,0:19,136,0:14,120,0,70S(0),0,139,137,0:3,107,120,0,4,122,120,0,122,0:7,139,0:4,118,0:6,118,0:7,136,139,0:6,107,122,128,0:5,122,0:3,137,138,0:3,4,0:2,4,0:3,4,0:3,4,0:8,140,0:2,140,0,76S(0),0,140,0:3,140,0:3,139:2,0:18,138,139,0:3,4,0:2,107,122,120,0,107,0:3,4,0:4,136,0:3,140,0:10,140,0:3,139:2,0:18,139,138,0:3,107,120,0,4,122,120,0,4,122,120,0,107,0:3,136,0:19,139:2,0:18,138,139,0:19,107,120,0:2,139,122:2,136:2,120,0,136,139,122:2,139,136,120,0,107:1" id="3"/>
-  <tiles values="0:42,10,0:274,10,0:42" id="4"/>
-  <tiles values="0:360" id="5"/>
-  <sign text="This type of demon is more intelligent than any prevously discovered. They are very aggressive and due to their large ears have an acute sense of hearing. They will anticipate any jump you make and move a small distance towards where you land. They can however easily be dodged by simply jumping past or through them." n="343" layer="2" width="0" height="0"/>
-  <msg text=""/>
-</root>

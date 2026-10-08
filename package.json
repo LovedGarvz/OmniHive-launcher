@@ -1,0 +1,49 @@
+{
+    "name":  "omnihive",
+    "version":  "1.0.0",
+    "description":  "Launcher para juegos Flash clásicos",
+    "main":  "main.js",
+    "scripts":  {
+                    "start":  "electron .",
+                    "pack":  "electron-builder --dir",
+                    "dist":  "electron-builder"
+                },
+    "author":  "",
+    "license":  "ISC",
+    "devDependencies":  {
+                            "electron":  "^42.3.2",
+                            "electron-builder":  "^24.13.3",
+                            "electron-packager":  "^17.1.2",
+                            "jimp":  "^1.6.1",
+                            "png-to-ico":  "^3.0.1",
+                            "rcedit":  "^5.0.2"
+                        },
+    "build":  {
+                  "appId":  "com.flashgames.launcher",
+                  "productName":  "OmniHive",
+                  "directories":  {
+                                      "output":  "dist"
+                                  },
+                  "asar":  false,
+                  "win":  {
+                              "target":  "nsis",
+                              "icon":  "SimAguaMixteco_Icono.ico",
+                              "signAndEditExecutable":  false,
+                              "sign":  null
+                          },
+                  "nsis":  {
+                               "oneClick":  false,
+                               "allowToChangeInstallationDirectory":  true
+                           },
+                  "files":  [
+                                "main.js",
+                                "preload.js",
+                                "index.html",
+                                "flashplayer_32_sa.exe",
+                                "*.png",
+                                "SimAguaMixteco_Icono.ico",
+                                "Games/**/*"
+                            ],
+                  "forceCodeSigning":  false
+              }
+}

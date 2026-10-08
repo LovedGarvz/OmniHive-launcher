@@ -1,11 +1,0 @@
-<root>
-  <level width="11" height="11" start_x="5" start_y="5" compression="false" tutorial="false"/>
-  <tiles values="0:121" id="0"/>
-  <tiles values="15:12,130,16,15:3,16,15:8,16:2,132,16:2,15:4,16:3,15:3,16,15:4,134,15,16,15:2,16,15:5,130,131,15:4,134,15:2,16:2,15:2,16:3,133,130,15:3,16:2,133,15:2,16:4,15:2,16,15:6,16:2,15:2,130,15:7,16,15:10,16,15:1" id="1"/>
-  <tiles values="0:27,1,0:93" id="2"/>
-  <tiles values="107,4:2,120,0,107,6,0:2,4,107,135,0:9,4,0:2,79S(5),0:5,11,0,121,118,0:20,118,4,0:10,107,0:9,107,4,0:9,5:2,0,79S(5),0:5,79S(5),0:6,84S(5),85S(5),84S(5),0:3,4,107,4,120,0,84S(5),105,84S(5),120,0,4,107:1" id="3"/>
-  <tiles values="0:121" id="4"/>
-  <tiles values="0:121" id="5"/>
-  <sign text="Three pressure pads?You had better use that magic mirror. It will give you a limited increase in power to leave weaker copies of yourself behind. Just draw a line and jump as normal to leave a weaker warlock in its place. It is possible to clone a copy of yourself as well. Try to position three warlocks on the three switches." n="27" layer="2" width="0" height="0"/>
-  <msg text=""/>
-</root>
